@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>🎨 Particle Testing</h1>
+  <h1> Particle Testing</h1>
   <p><strong>Author:</strong> Arya Mehta</p>
 </div>
 <div align="center">
-   <h1>🎨 Particle Testing</h1>
+   <h1> Particle Testing</h1>
    <p><strong>Author:</strong> Arya Mehta</p>
    <p>
       <img alt="version" src="https://img.shields.io/badge/version-1.0.0-blue" />
