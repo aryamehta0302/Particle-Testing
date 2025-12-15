@@ -133,33 +133,3 @@ Example GitHub Actions badge (replace `OWNER/REPO` and workflow name):
 ```markdown
 ![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)
 ```
-
---
-
-**Customization / Theming Ideas**
-
-- Add `daisyUI` or `headlessui` alongside Tailwind for prebuilt components and themes.
-- Use a small theme toggle in `Controls.tsx` to toggle body classes for light/dark and persist the choice in `localStorage`.
-- If you want richer color palettes, expose a color picker in `Controls.tsx` and save the chosen color to `ParticleConfig`.
-
---
-
-**Contributing**
-
-- Small improvements, bug reports, and UI suggestions welcome. Create issues or PRs.
-- Follow the existing TypeScript + React conventions. Keep changes small and focused.
-
---
-
-**License**
-
-This project is provided under the MIT license. If you want a different license, replace the `LICENSE` file accordingly.
-
---
-
-If you'd like, I can:
-- add a small theme toggle button to the UI (`App.tsx` + `Controls.tsx`),
-- wire up a GitHub Actions workflow for a build badge,
-- or add an example `tailwind.config.js` and `index.css` theme variables and move Tailwind from CDN to local usage.
-
-Which of these would you like me to do next?
